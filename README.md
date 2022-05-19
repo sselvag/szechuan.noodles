@@ -18,6 +18,7 @@ This week's Challenge requires you to modify starter code to create an applicati
 ![Screen Shot 2022-05-19 at 6 12 10 PM](https://user-images.githubusercontent.com/64749332/169416092-1382a30b-932c-4c08-976d-93c4abd307ab.png)
 This screenshot shows the JavaScript coding behind this password generator. In the screenshot, you can view the various arrays needed for the customizable option the employee required.
 
-## Link: 
+## Link: https://sselvag.github.io/szechuan.noodles/
+
 
 
