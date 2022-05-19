@@ -15,7 +15,8 @@ In addition to meeting all the criteria given by the employee, I ensured all the
 
 This week's Challenge requires you to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
 
-
+![Screen Shot 2022-05-19 at 6 12 10 PM](https://user-images.githubusercontent.com/64749332/169415295-12a2a9ce-6f76-4f69-b625-fccbd70774c2.png)
+This screenshot shows the JavaScript coding behind this password generator. In the screenshot, you can view the various arrays needed for the customizeable option the employee required.
 
 ## Link: 
 
